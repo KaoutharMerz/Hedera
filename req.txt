@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+web3
+paho-mqtt
+python-dotenv
+paho-mqtt
+pandas
+numpy
+scikit-learn
+web3
+streamlit
+plotly
+python-dotenv
+

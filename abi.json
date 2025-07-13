@@ -1,0 +1,51 @@
+[
+    {
+        "anonymous": false,
+        "inputs": [
+            {"indexed": false, "internalType": "uint256", "name": "WQI", "type": "uint256"},
+            {"indexed": false, "internalType": "string", "name": "quality", "type": "string"},
+            {"indexed": false, "internalType": "uint256", "name": "timestamp", "type": "uint256"}
+        ],
+        "name": "WQIAdded",
+        "type": "event"
+    },
+    {
+        "inputs": [{"internalType": "uint256", "name": "index", "type": "uint256"}],
+        "name": "getRecord",
+        "outputs": [
+            {"internalType": "uint256", "name": "", "type": "uint256"},
+            {"internalType": "string", "name": "", "type": "string"},
+            {"internalType": "uint256", "name": "", "type": "uint256"}
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "getRecordsCount",
+        "outputs": [{"internalType": "uint256", "name": "", "type": "uint256"}],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [{"internalType": "uint256", "name": "", "type": "uint256"}],
+        "name": "records",
+        "outputs": [
+            {"internalType": "uint256", "name": "WQI", "type": "uint256"},
+            {"internalType": "string", "name": "quality", "type": "string"},
+            {"internalType": "uint256", "name": "timestamp", "type": "uint256"}
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {"internalType": "uint256", "name": "_wqi", "type": "uint256"},
+            {"internalType": "string", "name": "_quality", "type": "string"}
+        ],
+        "name": "storeWQI",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    }
+]
