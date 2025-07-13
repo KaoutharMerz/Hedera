@@ -180,6 +180,6 @@ client.on_connect = on_connect
 client.on_message = on_message
 client.enable_logger()  # Logs détaillés
 
-client.connect("localhost", 1883)
+client.connect("broker.hivemq.com", 1883)
 print("✅ Subscriber MQTT prêt. En attente de messages...\n")
 client.loop_forever()

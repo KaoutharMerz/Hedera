@@ -134748,5 +134748,605 @@
             "WQI TPN": 50,
             "WQI TSS": 50
         }
+    },
+    {
+        "timestamp": "2025-07-13 15:40:15",
+        "raw": {
+            "pH": 8.57,
+            "Temp": 22.3,
+            "TDS": 579.45,
+            "Turb": 1.41,
+            "FC": 11.13,
+            "Oxy": 7.11,
+            "TP": 0.32,
+            "TPN": 0.37,
+            "TSS": 46.42
+        },
+        "wqi": {
+            "WQI pH": 75,
+            "WQI Temp": 95,
+            "WQI TDS": 75,
+            "WQI Turb": 80,
+            "WQI FC": 40,
+            "WQI Oxy": 75,
+            "WQI TP": 50,
+            "WQI TPN": 75,
+            "WQI TSS": 50
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:40:20",
+        "raw": {
+            "pH": 6.52,
+            "Temp": 13.77,
+            "TDS": 166.7,
+            "Turb": 6.44,
+            "FC": 10.93,
+            "Oxy": 2.91,
+            "TP": 0.31,
+            "TPN": 0.72,
+            "TSS": 33.93
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 55,
+            "WQI TDS": 95,
+            "WQI Turb": 60,
+            "WQI FC": 40,
+            "WQI Oxy": 30,
+            "WQI TP": 50,
+            "WQI TPN": 50,
+            "WQI TSS": 50
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:40:25",
+        "raw": {
+            "pH": 8.2,
+            "Temp": 24.52,
+            "TDS": 524.86,
+            "Turb": 9.7,
+            "FC": 5.45,
+            "Oxy": 2.21,
+            "TP": 0.25,
+            "TPN": 0.81,
+            "TSS": 32.87
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 95,
+            "WQI TDS": 75,
+            "WQI Turb": 60,
+            "WQI FC": 60,
+            "WQI Oxy": 30,
+            "WQI TP": 75,
+            "WQI TPN": 50,
+            "WQI TSS": 50
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:40:30",
+        "raw": {
+            "pH": 7.08,
+            "Temp": 10.04,
+            "TDS": 232.97,
+            "Turb": 8.36,
+            "FC": 11.66,
+            "Oxy": 5.74,
+            "TP": 0.43,
+            "TPN": 0.18,
+            "TSS": 50.19
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 55,
+            "WQI TDS": 95,
+            "WQI Turb": 60,
+            "WQI FC": 40,
+            "WQI Oxy": 55,
+            "WQI TP": 50,
+            "WQI TPN": 95,
+            "WQI TSS": 50
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:41:09",
+        "raw": {
+            "pH": 8.3,
+            "Temp": 19.26,
+            "TDS": 352.9,
+            "Turb": 9.46,
+            "FC": 6.48,
+            "Oxy": 4.61,
+            "TP": 0.17,
+            "TPN": 0.16,
+            "TSS": 17.47
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 75,
+            "WQI TDS": 75,
+            "WQI Turb": 60,
+            "WQI FC": 60,
+            "WQI Oxy": 55,
+            "WQI TP": 75,
+            "WQI TPN": 95,
+            "WQI TSS": 75
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:41:14",
+        "raw": {
+            "pH": 6.09,
+            "Temp": 31.69,
+            "TDS": 202.01,
+            "Turb": 10.6,
+            "FC": 11.46,
+            "Oxy": 8.97,
+            "TP": 0.16,
+            "TPN": 0.88,
+            "TSS": 24.36
+        },
+        "wqi": {
+            "WQI pH": 75,
+            "WQI Temp": 55,
+            "WQI TDS": 95,
+            "WQI Turb": 40,
+            "WQI FC": 40,
+            "WQI Oxy": 95,
+            "WQI TP": 75,
+            "WQI TPN": 50,
+            "WQI TSS": 75
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:41:19",
+        "raw": {
+            "pH": 6.74,
+            "Temp": 29.36,
+            "TDS": 729.12,
+            "Turb": 13.68,
+            "FC": 8.38,
+            "Oxy": 9.85,
+            "TP": 0.47,
+            "TPN": 0.7,
+            "TSS": 17.48
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 75,
+            "WQI TDS": 50,
+            "WQI Turb": 40,
+            "WQI FC": 60,
+            "WQI Oxy": 95,
+            "WQI TP": 50,
+            "WQI TPN": 50,
+            "WQI TSS": 75
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:41:25",
+        "raw": {
+            "pH": 6.63,
+            "Temp": 16.88,
+            "TDS": 557.86,
+            "Turb": 2.94,
+            "FC": 0.76,
+            "Oxy": 5.15,
+            "TP": 0.43,
+            "TPN": 0.44,
+            "TSS": 45.48
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 75,
+            "WQI TDS": 75,
+            "WQI Turb": 80,
+            "WQI FC": 100,
+            "WQI Oxy": 55,
+            "WQI TP": 50,
+            "WQI TPN": 75,
+            "WQI TSS": 50
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:41:30",
+        "raw": {
+            "pH": 8.42,
+            "Temp": 19.37,
+            "TDS": 238.43,
+            "Turb": 8.51,
+            "FC": 9.45,
+            "Oxy": 8.3,
+            "TP": 0.37,
+            "TPN": 0.77,
+            "TSS": 44.72
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 75,
+            "WQI TDS": 95,
+            "WQI Turb": 60,
+            "WQI FC": 60,
+            "WQI Oxy": 95,
+            "WQI TP": 50,
+            "WQI TPN": 50,
+            "WQI TSS": 50
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:41:35",
+        "raw": {
+            "pH": 8.14,
+            "Temp": 11.73,
+            "TDS": 445.93,
+            "Turb": 0.91,
+            "FC": 5.58,
+            "Oxy": 6.68,
+            "TP": 0.12,
+            "TPN": 0.15,
+            "TSS": 50.88
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 55,
+            "WQI TDS": 75,
+            "WQI Turb": 100,
+            "WQI FC": 60,
+            "WQI Oxy": 75,
+            "WQI TP": 75,
+            "WQI TPN": 95,
+            "WQI TSS": 50
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:41:40",
+        "raw": {
+            "pH": 6.39,
+            "Temp": 16.18,
+            "TDS": 790.42,
+            "Turb": 4.82,
+            "FC": 5.74,
+            "Oxy": 9.65,
+            "TP": 0.07,
+            "TPN": 0.91,
+            "TSS": 9.61
+        },
+        "wqi": {
+            "WQI pH": 75,
+            "WQI Temp": 75,
+            "WQI TDS": 50,
+            "WQI Turb": 80,
+            "WQI FC": 60,
+            "WQI Oxy": 95,
+            "WQI TP": 95,
+            "WQI TPN": 50,
+            "WQI TSS": 95
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:44:00",
+        "raw": {
+            "pH": 8.06,
+            "Temp": 10.28,
+            "TDS": 283.72,
+            "Turb": 11.91,
+            "FC": 13.82,
+            "Oxy": 3.08,
+            "TP": 0.23,
+            "TPN": 0.87,
+            "TSS": 47.96
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 55,
+            "WQI TDS": 95,
+            "WQI Turb": 40,
+            "WQI FC": 40,
+            "WQI Oxy": 30,
+            "WQI TP": 75,
+            "WQI TPN": 50,
+            "WQI TSS": 50
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:44:05",
+        "raw": {
+            "pH": 6.8,
+            "Temp": 14.17,
+            "TDS": 802.37,
+            "Turb": 11.02,
+            "FC": 13.37,
+            "Oxy": 4.66,
+            "TP": 0.06,
+            "TPN": 0.68,
+            "TSS": 8.63
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 55,
+            "WQI TDS": 50,
+            "WQI Turb": 40,
+            "WQI FC": 40,
+            "WQI Oxy": 55,
+            "WQI TP": 95,
+            "WQI TPN": 50,
+            "WQI TSS": 95
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:44:11",
+        "raw": {
+            "pH": 8.72,
+            "Temp": 17.54,
+            "TDS": 405.85,
+            "Turb": 13.66,
+            "FC": 10.69,
+            "Oxy": 9.45,
+            "TP": 0.22,
+            "TPN": 0.43,
+            "TSS": 39.67
+        },
+        "wqi": {
+            "WQI pH": 75,
+            "WQI Temp": 75,
+            "WQI TDS": 75,
+            "WQI Turb": 40,
+            "WQI FC": 40,
+            "WQI Oxy": 95,
+            "WQI TP": 75,
+            "WQI TPN": 75,
+            "WQI TSS": 50
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:44:16",
+        "raw": {
+            "pH": 6.22,
+            "Temp": 18.84,
+            "TDS": 813.47,
+            "Turb": 10.81,
+            "FC": 7.06,
+            "Oxy": 9.31,
+            "TP": 0.23,
+            "TPN": 0.76,
+            "TSS": 11.1
+        },
+        "wqi": {
+            "WQI pH": 75,
+            "WQI Temp": 75,
+            "WQI TDS": 50,
+            "WQI Turb": 40,
+            "WQI FC": 60,
+            "WQI Oxy": 95,
+            "WQI TP": 75,
+            "WQI TPN": 50,
+            "WQI TSS": 75
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:44:21",
+        "raw": {
+            "pH": 7.09,
+            "Temp": 21.75,
+            "TDS": 771.28,
+            "Turb": 6.67,
+            "FC": 7.7,
+            "Oxy": 4.68,
+            "TP": 0.31,
+            "TPN": 0.99,
+            "TSS": 55.57
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 95,
+            "WQI TDS": 50,
+            "WQI Turb": 60,
+            "WQI FC": 60,
+            "WQI Oxy": 55,
+            "WQI TP": 50,
+            "WQI TPN": 50,
+            "WQI TSS": 50
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:44:26",
+        "raw": {
+            "pH": 6.53,
+            "Temp": 27.18,
+            "TDS": 413.34,
+            "Turb": 11.02,
+            "FC": 9.87,
+            "Oxy": 3.58,
+            "TP": 0.06,
+            "TPN": 0.98,
+            "TSS": 44.26
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 75,
+            "WQI TDS": 75,
+            "WQI Turb": 40,
+            "WQI FC": 60,
+            "WQI Oxy": 30,
+            "WQI TP": 95,
+            "WQI TPN": 50,
+            "WQI TSS": 50
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:44:31",
+        "raw": {
+            "pH": 7.72,
+            "Temp": 30.88,
+            "TDS": 561.79,
+            "Turb": 11.1,
+            "FC": 10.43,
+            "Oxy": 5.46,
+            "TP": 0.36,
+            "TPN": 0.99,
+            "TSS": 29.31
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 55,
+            "WQI TDS": 75,
+            "WQI Turb": 40,
+            "WQI FC": 40,
+            "WQI Oxy": 55,
+            "WQI TP": 50,
+            "WQI TPN": 50,
+            "WQI TSS": 75
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:44:37",
+        "raw": {
+            "pH": 7.57,
+            "Temp": 29.47,
+            "TDS": 149.02,
+            "Turb": 2.5,
+            "FC": 5.43,
+            "Oxy": 5.59,
+            "TP": 0.07,
+            "TPN": 0.07,
+            "TSS": 2.96
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 75,
+            "WQI TDS": 95,
+            "WQI Turb": 80,
+            "WQI FC": 60,
+            "WQI Oxy": 55,
+            "WQI TP": 95,
+            "WQI TPN": 95,
+            "WQI TSS": 95
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:44:42",
+        "raw": {
+            "pH": 7.57,
+            "Temp": 21.89,
+            "TDS": 898.76,
+            "Turb": 3.69,
+            "FC": 13.19,
+            "Oxy": 5.08,
+            "TP": 0.19,
+            "TPN": 0.71,
+            "TSS": 22.65
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 95,
+            "WQI TDS": 50,
+            "WQI Turb": 80,
+            "WQI FC": 40,
+            "WQI Oxy": 55,
+            "WQI TP": 75,
+            "WQI TPN": 50,
+            "WQI TSS": 75
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:44:47",
+        "raw": {
+            "pH": 6.42,
+            "Temp": 24.51,
+            "TDS": 157.87,
+            "Turb": 13.14,
+            "FC": 7.36,
+            "Oxy": 5.44,
+            "TP": 0.25,
+            "TPN": 0.73,
+            "TSS": 16.3
+        },
+        "wqi": {
+            "WQI pH": 75,
+            "WQI Temp": 95,
+            "WQI TDS": 95,
+            "WQI Turb": 40,
+            "WQI FC": 60,
+            "WQI Oxy": 55,
+            "WQI TP": 75,
+            "WQI TPN": 50,
+            "WQI TSS": 75
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:44:52",
+        "raw": {
+            "pH": 7.08,
+            "Temp": 29.55,
+            "TDS": 543.81,
+            "Turb": 11.34,
+            "FC": 0.83,
+            "Oxy": 4.97,
+            "TP": 0.33,
+            "TPN": 0.35,
+            "TSS": 46.93
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 75,
+            "WQI TDS": 75,
+            "WQI Turb": 40,
+            "WQI FC": 100,
+            "WQI Oxy": 55,
+            "WQI TP": 50,
+            "WQI TPN": 75,
+            "WQI TSS": 50
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:44:57",
+        "raw": {
+            "pH": 6.83,
+            "Temp": 18.21,
+            "TDS": 651.98,
+            "Turb": 8.88,
+            "FC": 9.71,
+            "Oxy": 2.59,
+            "TP": 0.5,
+            "TPN": 0.31,
+            "TSS": 26.92
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 75,
+            "WQI TDS": 50,
+            "WQI Turb": 60,
+            "WQI FC": 60,
+            "WQI Oxy": 30,
+            "WQI TP": 50,
+            "WQI TPN": 75,
+            "WQI TSS": 75
+        }
+    },
+    {
+        "timestamp": "2025-07-13 15:45:02",
+        "raw": {
+            "pH": 7.57,
+            "Temp": 14.74,
+            "TDS": 875.3,
+            "Turb": 4.77,
+            "FC": 1.1,
+            "Oxy": 9.51,
+            "TP": 0.08,
+            "TPN": 0.58,
+            "TSS": 23.29
+        },
+        "wqi": {
+            "WQI pH": 95,
+            "WQI Temp": 55,
+            "WQI TDS": 50,
+            "WQI Turb": 80,
+            "WQI FC": 100,
+            "WQI Oxy": 95,
+            "WQI TP": 95,
+            "WQI TPN": 75,
+            "WQI TSS": 75
+        }
     }
 ]

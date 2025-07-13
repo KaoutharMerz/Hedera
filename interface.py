@@ -22,7 +22,7 @@ def on_message(client, userdata, msg):
 client = mqtt.Client()
 client.on_connect = on_connect
 client.on_message = on_message
-client.connect("localhost", 1883, 60)
+client.connect("broker.hivemq.com", 1883, 60)
 threading.Thread(target=client.loop_forever, daemon=True).start()
 
 # --------- UI Streamlit -----------
@@ -168,7 +168,7 @@ else:
     st.info("En attente de messages MQTT...")
 
 # --- Section 3: Affichage JSON (Historique local) ---
-st.header("📋 Historique local depuis `records.json`")
+st.header("🔗 Suivi des transactions enregistrées sur la Blockchain Hedera")
 
 json_file = "records.json"
 def load_json_table():

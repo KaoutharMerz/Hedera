@@ -5,7 +5,7 @@ import time
 import os
 
 # --- Configuration MQTT ---
-broker = "localhost"
+broker = "broker.hivemq.com"
 port = 1883
 topic = "iot/water_quality"
 log_file = "data_log.json"
